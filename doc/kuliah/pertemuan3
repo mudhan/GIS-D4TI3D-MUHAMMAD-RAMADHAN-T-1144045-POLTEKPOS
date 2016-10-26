@@ -1,0 +1,3 @@
+QGIS is the Geographic Information System (GIS) which is user friendly Open Source licensed under the GNU General Public License. QGIS is not an official project of the Open Source Geospatial Foundation (OSGeo). QGIS can run on Linux, Unix, Mac OSX, Windows and Android, and supports many formats and data functionality of vector, raster, and database.
+
+In QGIS we can download a file that already exists then imported into the GIS, we can download on the website of natural earth. Data are provided on Cultural categories namely vector data which is mostly in the form of a data format shapefile (shp), such as vector data state administrative boundaries, roads, airports, and many others.
